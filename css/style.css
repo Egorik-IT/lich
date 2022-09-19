@@ -43,3 +43,17 @@ body{
 .prozent{
   font-family: Arial;
 }
+//----------------------------------------------------------------------------------//
+@media(max-width:2200px) {
+  .graniza_blok{
+    max-width: 800px;
+  }
+  .kartinka img{
+    width: 290px;
+    box-shadow: 6px 6px 4px black;
+  }
+  .spisok{
+    max-width: 750px;
+    
+  }
+}
