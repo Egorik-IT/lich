@@ -13,7 +13,7 @@ body{
   margin: 0 auto;
   background-color: rgba(157, 255, 0, 0.753);
   border: 6px ridge rgb(183, 0, 255);
-  border-radius: 10%;
+  border-radius: 6%;
 }
 .kartinka{
   text-align: center;
