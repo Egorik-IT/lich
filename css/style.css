@@ -62,16 +62,15 @@ body{
 
 
 
-@media(max-width:380px ) {
+@media(max-width:360px ) {
   .graniza_blok{
-    max-width: 330px;
+    max-width: 300px;
   }
   .kartinka img{
-    width: 170px;
-    box-shadow: 6px 6px 4px black;
+    width: 178px;
   }
   .spisok{
-    max-width: 290px;
+    max-width: 260px;
     
   }
 }
