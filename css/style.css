@@ -59,3 +59,32 @@ body{
     
   }
 }
+
+
+
+@media(max-width:360px ) {
+  .graniza_blok{
+    max-width: 370px;
+  }
+  .kartinka img{
+    width: 190px;
+    box-shadow: 6px 6px 4px black;
+  }
+  .spisok{
+    max-width: 350px;
+    
+  }
+}
+@media(max-height:640px) {
+  .graniza_blok{
+    max-width: 370px;
+  }
+  .kartinka img{
+    width: 190px;
+    box-shadow: 6px 6px 4px black;
+  }
+  .spisok{
+    max-width: 350px;
+    
+  }
+}
