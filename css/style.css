@@ -2,14 +2,14 @@ body{
   background: url(../img/72699224.jpg);
 }
 .strelok{
-  font-size: 50px;
+  font-size: 30px;
   font-family: Arial;
   font-weight: 700;
   color: blue;
   text-align: center;
 }
 .graniza_blok{
-  max-width: 800px;
+  max-width: 350px;
   margin: 0 auto;
   background-color: rgba(157, 255, 0, 0.753);
   border: 6px ridge rgb(183, 0, 255);
@@ -19,7 +19,7 @@ body{
   text-align: center;
 }
 .kartinka img{
-  width: 290px;
+  width: 190px;
   box-shadow: 6px 6px 4px black;
 }
 .text{
@@ -28,7 +28,7 @@ body{
   margin: 20px 0px 20px 0px;
 }
 .spisok{
-  max-width: 600px;
+  max-width: 300px;
   border: 4px ridge rgb(255, 0, 0);
   background-color: rgba(186, 253, 253, 0.863);
   font-size: 32px;
