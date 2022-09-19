@@ -1,0 +1,44 @@
+body{
+  background: url(../img/72699224.jpg);
+}
+.strelok{
+  font-size: 50px;
+  font-family: Arial;
+  font-weight: 700;
+  color: blue;
+  text-align: center;
+}
+.graniza_blok{
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: rgba(157, 255, 0, 0.753);
+  border: 6px ridge rgb(183, 0, 255);
+  border-radius: 10%;
+}
+.kartinka{
+  text-align: center;
+}
+.kartinka img{
+  width: 290px;
+  box-shadow: 6px 6px 4px black;
+}
+.text{
+  display: flex;
+  justify-content:center;
+  margin: 20px 0px 20px 0px;
+}
+.spisok{
+  max-width: 600px;
+  border: 4px ridge rgb(255, 0, 0);
+  background-color: rgba(186, 253, 253, 0.863);
+  font-size: 32px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 50px;
+  padding: 10px;
+  color: darkmagenta;
+  text-decoration: underline rgb(5, 87, 9);
+}
+.prozent{
+  font-family: Arial;
+}
