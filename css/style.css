@@ -38,6 +38,7 @@ body{
   padding: 10px;
   color: darkmagenta;
   text-decoration: underline rgb(5, 87, 9);
+  border-radius: 6%;
 }
 .prozent{
   font-family: Arial;
