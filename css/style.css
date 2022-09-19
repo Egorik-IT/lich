@@ -75,17 +75,5 @@ body{
     
   }
 }
-@media(max-height:640px) {
-  .graniza_blok{
-    max-width: 350px;
-  }
-  .kartinka img{
-    width: 190px;
-    box-shadow: 6px 6px 4px black;
-  }
-  .spisok{
-    max-width: 300px;
-    
-  }
-}
+
 
