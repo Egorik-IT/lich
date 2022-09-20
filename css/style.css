@@ -82,12 +82,12 @@ body{
   }
   .kartinka img{
     width: 190px;
-    
   }
   .spisok{
     max-width: 300px;
-    
   }
+  .strelok{
+    font-size: 30px;}
 }
 @media(max-height:320px) {
   .graniza_blok{
@@ -101,6 +101,8 @@ body{
     max-width: 300px;
     
   }
+  .strelok{
+    font-size: 30px;}
 }
 
 
@@ -116,6 +118,8 @@ body{
     max-width: 360px;
     
   }
+  .strelok{
+    font-size: 30px;}
 }
 @media(max-height:480px) {
   .graniza_blok{
@@ -129,4 +133,6 @@ body{
     max-width: 360px;
     
   }
+  .strelok{
+    font-size: 30px;}
 }
