@@ -55,8 +55,9 @@ body{
     width: 400px;
   }
   .spisok{
-    max-width: 1000px;
-    
+    max-width: 1000px;}
+    .strelok{
+  font-size: 50px;
   }
 }
 @media(max-height:1400px) {
@@ -68,7 +69,9 @@ body{
   }
   .spisok{
     max-width: 1000px;
-    
+  }
+  .strelok{
+  font-size: 50px;
   }
 }
 
