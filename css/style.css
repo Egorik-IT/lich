@@ -109,31 +109,35 @@ body{
 
 @media(max-width:320px ) {
   .graniza_blok{
-    max-width: 500px;
+    max-width: 680px;
   }
   .kartinka img{
-    width: 300px;
+    width: 320px;
     
   }
   .spisok{
-    max-width: 400px;
+    max-width: 580px;
     
   }
   .strelok{
-    font-size: 40px;}
+    font-size: 40px;
+    text-decoration: underline pink;
+  }
 }
 @media(max-height:480px) {
   .graniza_blok{
-    max-width: 500px;
+    max-width: 680px;
   }
   .kartinka img{
-    width: 300px;
+    width: 320px;
    
   }
   .spisok{
-    max-width: 400px;
+    max-width: 580px;
     
   }
   .strelok{
-    font-size: 40px;}
+    font-size: 40px;
+    text-decoration: underline pink;
+  }
 }
