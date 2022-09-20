@@ -45,22 +45,22 @@ body{
   font-family: Arial;
 }
 
-//---------------------------------------------------------------------//
+
 
 @media(max-width:2200px) {
   .graniza_blok{
-    max-width: 1000px;
+    max-width: 1100px;
   }
   .kartinka img{
-    width: 390px;
+    width: 400px;
   }
   .spisok{
-    max-width: 940px;
+    max-width: 1000px;
     
   }
 }
 
-//-------------------------------------------------------------//
+
 
 @media(max-width:560px ) {
   .graniza_blok{
