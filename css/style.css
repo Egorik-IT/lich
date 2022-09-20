@@ -49,13 +49,13 @@ body{
 
 @media(max-width:2200px) {
   .graniza_blok{
-    max-width: 300px;
+    max-width: 1000px;
   }
   .kartinka img{
-    width: 190px;
+    width: 390px;
   }
   .spisok{
-    max-width: 280px;
+    max-width: 800px;
     
   }
 }
