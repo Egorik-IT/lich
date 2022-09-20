@@ -9,18 +9,18 @@ body{
   text-align: center;
 }
 .graniza_blok{
-  max-width: 800px;
+  max-width: 340px;
   margin: 0 auto;
   background-color: rgba(157, 255, 0, 0.753);
   border: 6px ridge rgb(183, 0, 255);
   border-radius: 6%;
-  padding:15px;
+  
 }
 .kartinka{
   text-align: center;
 }
 .kartinka img{
-  width: 290px;
+  width: 190px;
   box-shadow: 6px 6px 4px black;
 }
 .text{
@@ -29,7 +29,7 @@ body{
   margin: 20px 0px 20px 0px;
 }
 .spisok{
-  max-width: 750px;
+  max-width: 300px;
   border: 4px ridge rgb(255, 0, 0);
   background-color: rgba(186, 253, 253, 0.863);
   font-size: 32px;
@@ -63,17 +63,6 @@ body{
 
 
 
-@media(max-width:360px ) {
-  .graniza_blok{
-    max-width: 280px;
-  }
-  .kartinka img{
-    width: 190px;
-  }
-  .spisok{
-    max-width: 230px;
-    
-  }
-}
+
 
 
