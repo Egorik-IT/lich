@@ -109,31 +109,31 @@ body{
 
 @media(max-width:320px ) {
   .graniza_blok{
-    max-width: 450px;
+    max-width: 500px;
   }
   .kartinka img{
-    width: 290px;
+    width: 300px;
     
   }
   .spisok{
-    max-width: 360px;
+    max-width: 400px;
     
   }
   .strelok{
-    font-size: 30px;}
+    font-size: 40px;}
 }
 @media(max-height:480px) {
   .graniza_blok{
-    max-width: 450px;
+    max-width: 500px;
   }
   .kartinka img{
-    width: 290px;
+    width: 300px;
    
   }
   .spisok{
-    max-width: 360px;
+    max-width: 400px;
     
   }
   .strelok{
-    font-size: 30px;}
+    font-size: 40px;}
 }
