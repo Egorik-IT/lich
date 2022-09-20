@@ -101,3 +101,29 @@ body{
 }
 
 
+@media(max-width:320px ) {
+  .graniza_blok{
+    max-width: 450px;
+  }
+  .kartinka img{
+    width: 290px;
+    
+  }
+  .spisok{
+    max-width: 360px;
+    
+  }
+}
+@media(max-height:480px) {
+  .graniza_blok{
+    max-width: 450px;
+  }
+  .kartinka img{
+    width: 290px;
+   
+  }
+  .spisok{
+    max-width: 360px;
+    
+  }
+}
