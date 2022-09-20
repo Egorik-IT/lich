@@ -121,7 +121,6 @@ body{
   }
   .strelok{
     font-size: 40px;
-    text-decoration: underline pink;
   }
 }
 @media(max-height:480px) {
@@ -138,6 +137,5 @@ body{
   }
   .strelok{
     font-size: 40px;
-    text-decoration: underline pink;
   }
 }
